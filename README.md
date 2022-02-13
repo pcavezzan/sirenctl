@@ -1,5 +1,7 @@
-sirenctl ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pcavezzan/sirenctl/build)
+sirenctl
 ========
+
+![example workflow](https://github.com/pcavezzan/sirenctl/actions/workflows/build.yml/badge.svg)
 
 Petit utilitaire permettant de récupérer l'établissement (SIRET) associée à l'entreprise (SIREN) et le code postal de l'établissement ciblé.
 
